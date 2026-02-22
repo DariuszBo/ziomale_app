@@ -6,6 +6,12 @@ Model klastrowania został wytrenowany przy użyciu **PyCaret**, a aplikacja umo
 
 ---
 
+## 🧠 Model klastrowania – K-Means
+
+Do segmentacji zastosowano algorytm **K-Means** z biblioteki **PyCaret**.
+
+---
+
 ## 🚀 Funkcjonalności
 
 - 📋 Wypełnianie ankiety w aplikacji webowej
@@ -25,3 +31,6 @@ Model klastrowania został wytrenowany przy użyciu **PyCaret**, a aplikacja umo
 
 ---
 
+## 🎓 Cel projektu 
+
+Projekt został zrealizowany w celu analizy segmentacji użytkowników na podstawie danych ankietowych oraz demonstracji zastosowania metod uczenia nienadzorowanego w praktyce.
